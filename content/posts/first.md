@@ -5,7 +5,8 @@ draft: false
 tags: ["Introduction", "Beecrowd", "Languages", "Math"]
 ---
 
-# My Learning Log | Мой журнал обучения | Meu Diário de Aprendizado
+# My Learning Log 
+# Мой журнал обучения 
 
 Welcome to my evolution space. Here I combine my three current challenges: **programming, english, and russian.**
 

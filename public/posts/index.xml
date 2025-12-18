@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on solving problems with rasputin</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on solving problems with rasputin</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start: Code, English &amp; Russian | Início | Начало</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;my-learning-log--мой-журнал-обучения--meu-diário-de-aprendizado&#34;&gt;My Learning Log | Мой журнал обучения | Meu Diário de Aprendizado&lt;/h1&gt;
+&lt;p&gt;Welcome to my evolution space. Here I combine my three current challenges: &lt;strong&gt;programming, english, and russian.&lt;/strong&gt;
+Добро пожаловать в моё пространство развития. Здесь я совмещаю три моих текущих вызова: &lt;strong&gt;программирование, английский и русский языки.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;português&#34;&gt;Português&lt;/h3&gt;
+&lt;p&gt;Estou criando essa página para me motivar a treinar codar diariamente, ao mesmo tempo que evoluo minha escrita em idiomas estrangeiros. Mostrarei meu avanço diário explicando problemas do &lt;strong&gt;Beecrowd&lt;/strong&gt;. Meu foco principal será em &lt;strong&gt;problemas de matemática&lt;/strong&gt;, pois acho essa área mais interessante e desafiadora.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

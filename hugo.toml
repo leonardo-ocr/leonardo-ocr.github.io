@@ -1,0 +1,9 @@
+baseURL = 'https://leonardo-ocr.github.io/'
+languageCode = 'pt-br'
+title = 'solving problems with rasputin'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = "dark"
+    displayFullContent = true
+    showCodeCopyButtons = true

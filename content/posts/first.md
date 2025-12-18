@@ -30,7 +30,6 @@ I am creating this page to motivate myself to code daily while improving my writ
 ### English
 In this problem, the goal is to balance two sets of tiles (similar to dominoes) so that the sum of the upper side equals the sum of the lower side. The mathematical core of the solution lies in calculating the **difference** between the two values on each tile. 
 
-
 ### Русский
 В этой задаче цель состоит в том, чтобы сбалансировать два набора плиток (похожих на домино) так, чтобы сумма верхней стороны была равна сумме нижней стороны. Математическая суть решения заключается в вычислении **разности** между двумя значениями на каждой плитке.
 
@@ -38,10 +37,10 @@ In this problem, the goal is to balance two sets of tiles (similar to dominoes) 
 
 ### Implementation (C++)
 
-Why C++?
+**Why C++?**
 Most of these mathematical problems will be solved using C++. I prefer this language because of the precision and control it offers in complex calculations, as well as its efficiency in handling large volumes of data. 
 
-Почему C++?
+**Почему C++?**
 Большинство этих математических задач будут решены на C++. Я предпочитаю этот язык из-за точности и контроля, которые он предлагает в сложных вычислениях, а также из-за его эффективности при обработке больших объемов данных.
 
 ```cpp
@@ -84,7 +83,6 @@ void resolver() {
         }
 
         bool tudo_possivel = false;
-        // case 1: all tiles used. The total difference must be even to split equally.
         if (soma_total_diferencas % 2 == 0) {
             bitset<SOMA_MAXIMA> dp;
             dp[0] = 1;
@@ -101,7 +99,7 @@ void resolver() {
         }
 
         if (tudo_possivel) continue;
-        // case 2: discard one tile. 
+
         sort(pecas.begin(), pecas.end(), compararPecas);
         vector<bitset<SOMA_MAXIMA>> prefixo(N + 1);
         prefixo[0][0] = 1;

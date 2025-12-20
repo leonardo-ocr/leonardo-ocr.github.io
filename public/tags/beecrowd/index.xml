@@ -6,19 +6,31 @@
     <description>Recent content in Beecrowd on solving problems with rasputin</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/beecrowd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solving Beecrowd 1232: Rubik’s Cycle</title>
+      <link>http://localhost:1313/posts/problem/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/problem/</guid>
+      <description>&lt;h1 id=&#34;solving-beecrowd-1232-rubiks-cycle&#34;&gt;Solving Beecrowd 1232: Rubik’s Cycle&lt;/h1&gt;
+&lt;p&gt;While solving some problems today, I came across problem 1232 and found it very interesting. It gave me a headache, but it was fun to solve.&lt;/p&gt;
+&lt;p&gt;In this post, I will explain how to solve this problem using Permutation Cycles and the Least Common Multiple (LCM), avoiding the &amp;ldquo;Time Limit Exceeded&amp;rdquo; (TLE) error.&lt;/p&gt;
+&lt;h1 id=&#34;the-problem&#34;&gt;The Problem&lt;/h1&gt;
+&lt;p&gt;The problem asks a simple question: Given a specific sequence of moves on a Rubik&amp;rsquo;s Cube (&amp;ldquo;Rotate Front, then Rotate Right&amp;rdquo;), how many times do we need to repeat that exact sequence for the cube to return to its initial, solved state?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Start: Code, English &amp; Russian | Início | Начало</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;h1 id=&#34;my-learning-log--мой-журнал-обучения--meu-diário-de-aprendizado&#34;&gt;My Learning Log | Мой журнал обучения | Meu Diário de Aprendizado&lt;/h1&gt;
-&lt;p&gt;Welcome to my evolution space. Here I combine my three current challenges: &lt;strong&gt;programming, english, and russian.&lt;/strong&gt;
-Добро пожаловать в моё пространство развития. Здесь я совмещаю три моих текущих вызова: &lt;strong&gt;программирование, английский и русский языки.&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;h1 id=&#34;my-learning-log&#34;&gt;My Learning Log&lt;/h1&gt;
+&lt;h1 id=&#34;мой-журнал-обучения&#34;&gt;Мой журнал обучения&lt;/h1&gt;
+&lt;p&gt;Welcome to my evolution space. Here I combine my three current challenges: &lt;strong&gt;programming, english, and russian.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Добро пожаловать в моё пространство развития. Здесь я совмещаю три моих текущих вызова: &lt;strong&gt;программирование, английский и русский языки.&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;português&#34;&gt;Português&lt;/h3&gt;
-&lt;p&gt;Estou criando essa página para me motivar a treinar codar diariamente, ao mesmo tempo que evoluo minha escrita em idiomas estrangeiros. Mostrarei meu avanço diário explicando problemas do &lt;strong&gt;Beecrowd&lt;/strong&gt;. Meu foco principal será em &lt;strong&gt;problemas de matemática&lt;/strong&gt;, pois acho essa área mais interessante e desafiadora.&lt;/p&gt;</description>
+&lt;p&gt;Estou criando essa página para me motivar a treinar codar diariamente, ao mesmo tempo que evoluo minha escrita em idiomas estrangeiros. Mostrarei meu avanço diário explicando problemas do &lt;strong&gt;Beecrowd&lt;/strong&gt;. Meu foco principal será em problemas de matemática, pois acho essa área mais interessante e desafiadora.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
